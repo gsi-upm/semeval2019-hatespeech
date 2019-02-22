@@ -3,7 +3,7 @@
 This repository contains the code used for the submissions to Task 5.
 We have participated in both subtasks, as well as in the two avaialalble languages: Spanish and English.
 
-Our implementation relies heavily in (scikit-learn)[https://scikit-learn.org/], (pandas)[https://pandas.pydata.org/], and (gsitk)[https://github.com/gsi-upm/gsitk].
+Our implementation relies heavily in [scikit-learn](https://scikit-learn.org/) [pandas](https://pandas.pydata.org/), and [gsitk](https://github.com/gsi-upm/gsitk).
 To install them, please use `pip`:
 
 ```
